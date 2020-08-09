@@ -1,5 +1,6 @@
 # Juego de Loteria. Trabajo Práctico
-## Utilizar: For –While –If –Switch Case –Vectores –Printf –Scanf –Int –Char –Funciones y Procedimientos-Variables Locales y Globales
+## Utilizar:
+## For –While –If –Switch Case –Vectores –Printf –Scanf –Int –Char –Funciones y Procedimientos-Variables Locales y Globales
 
 El juego consta de lo siguiente:
 - El jugador compra una boleta de Quini 6, la cual posee 6 númerosenteros, del 0 al 45, números sin repetir, que los puede elegir el o la boleta puede ser automática.
