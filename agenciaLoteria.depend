@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596991360 source:c:\users\peqe_\desktop\agencialoteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
