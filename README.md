@@ -1,4 +1,4 @@
-# Juego de Loteria.
+# Juego de Loteria
 ## Trabajo Práctico
 ### Utilizar:For –While –If –Switch Case –Vectores –Printf –Scanf –Int –Char –Funciones y Procedimientos-Variables Locales y Globales
 
